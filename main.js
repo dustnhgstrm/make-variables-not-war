@@ -1,7 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+let myFirstName = 'Dustin';
+let myLastName = 'Hagstrom';
+let myBestFriend = 'Bruce';
+let mySentence = myFirstName + ' ' + myLastName + 'likes to play soccer with ' + myBestFriend;
+let myFavoriteNum = 23;
+let myMentalAge = 25;
+let myHeight = 74;
+let myFavoriteYear = 2004;
+let mySum = 3 + 1918 + 24 + 1;
+let myProduct = 232 * 43 / 2 + 4;
+let myHeightAndAge = myMentalAge + myHeight;
 
 
 
